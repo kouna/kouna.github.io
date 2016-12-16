@@ -4,8 +4,8 @@ title: A Propos
 permalink: /about/
 ---
 
-Quelques infos sur vous!
-Some information about you!
+Quelques infos sur vous!  
+Some information about you!  
 
 ### Plus d'informations
 
